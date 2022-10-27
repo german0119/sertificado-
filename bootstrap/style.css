@@ -1,0 +1,137 @@
+.col {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}  
+.col-2 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255)
+}
+.row2 {
+    display: flex;
+    height: 600px;
+   
+}
+
+.menuheader {
+    background: #563d7c;
+  }
+  
+  .tm_navbar .nav {
+    float: none;
+    position: relative;
+    display: inline-block;
+  }
+  .tm_navbar ul {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    background: none;
+    list-style: none;
+  }
+  .tm_navbar .nav li:first-child {
+    position: relative;
+    zoom: 1;
+    background: none;
+  }
+  .tm_navbar .nav li {
+    float: left;
+    padding: 0 10px 0 10px;
+    position: relative;
+    zoom: 1;
+  }
+  .tm_navbar .nav li a {
+    text-decoration: none;
+    text-transform: lowercase;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: normal;
+    background: transparent;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    text-shadow: 1px 1px 2px #ffffff;
+  }
+  
+  .col h1{
+    color: #563d7c;
+    font-family: sans-serif;
+  }
+
+  .col h2{
+    color: #2b2d2d;
+    font-family: sans-serif;
+  }
+
+  .button1 {
+    border-color: #987ac4;
+    background-color: #ffffff;
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    display:inline-block;
+    color: #987ac4;
+  }
+
+  .button2 {
+    border-color:#cacdd0;
+    background-color:#ffffff;
+    color: rgb(0, 0, 0);
+    padding: 20px 40px;
+    text-emphasis: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button3 {
+    border-color: #3d9afe;
+    background-color: #ffffff;
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    display:inline-block;
+    color: #3d9afe;
+  }
+
+  .letra {
+    color:#87788c ;
+  }
+  
+  .letra2{
+    font-size: 20px;
+  }
+
+  .letra3{
+    font-size: 20px;
+    color: #8a8c87;
+  }
+
+  .row3 {
+    display: flex;
+    background-color: #f2f2f2;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10;
+  }
+
+  .row4 {
+    display: flex;
+    height: 600px;
+    background: #563d7c;
+  }
+
+  .letrita3 {
+    font-size: 20px;
+    color: #7f8890;
+  }
+
+  .hola {
+    color: #0a81ff;
+  }
+  
+
+
